@@ -1,0 +1,199 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_url,route_headsign,route_color,route_text_color
+OCTO2312E,STL,12,Pont-Viau,3,https://stlaval.ca/reseau/horaires-autobus/route/12E,PONT-VIAU,151f6d,FFFFFF
+OCTO2312O,STL,12,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/12O,CARTIER,151f6d,FFFFFF
+OCTO23144E,STL,144,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/144E,COTE-VERTU,151f6d,FFFFFF
+OCTO23144O,STL,144,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/144O,STEDOROTHEE,151f6d,FFFFFF
+OCTO23151N,STL,151,Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/151N,STE-ROSE,151f6d,FFFFFF
+OCTO23151S,STL,151,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/151S,COTE-VERTU,151f6d,FFFFFF
+OCTO2316E,STL,16,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/16E,MONTMORENCY,151f6d,FFFFFF
+OCTO2316O,STL,16,Laval-des-Rapides / Armand-Frappier,3,https://stlaval.ca/reseau/horaires-autobus/route/16O,LAV.RAPIDES,151f6d,FFFFFF
+OCTO2317N,STL,17,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/17N,AUTEUIL,151f6d,FFFFFF
+OCTO2317S,STL,17,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/17S,CARTIER,151f6d,FFFFFF
+OCTO232E,STL,2,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/2E,H-BOURASSA,151f6d,FFFFFF
+OCTO232O,STL,2,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/2O,MONTMORENCY,151f6d,FFFFFF
+OCTO2320E,STL,20,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/20E,CARTIER,151f6d,FFFFFF
+OCTO2320O,STL,20,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/20O,CHOMEDEY,151f6d,FFFFFF
+OCTO2322E,STL,22,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/22E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO2322O,STL,22,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/22O,CARTIER,151f6d,FFFFFF
+OCTO23222E,STL,222,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/222E,ST-VCT-PAUL,151f6d,FFFFFF
+OCTO23222O,STL,222,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/222O,CARTIER,151f6d,FFFFFF
+OCTO2324E,STL,24,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/24E,CARTIER,151f6d,FFFFFF
+OCTO2324O,STL,24,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/24O,STEDOROTHEE,151f6d,FFFFFF
+OCTO23252E,STL,252,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/252E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO23252O,STL,252,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/252O,H-BOURASSA,151f6d,FFFFFF
+OCTO2326E,STL,26,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/26E,MONTMORENCY,151f6d,FFFFFF
+OCTO2326O,STL,26,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/26O,STEDOROTHEE,151f6d,FFFFFF
+OCTO2327N,STL,27,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/27N,GARE VIMONT,151f6d,FFFFFF
+OCTO2327S,STL,27,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/27S,CARTIER,151f6d,FFFFFF
+OCTO2331N,STL,31,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/31N,AUTEUIL,151f6d,FFFFFF
+OCTO2331S,STL,31,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/31S,H-BOURASSA,151f6d,FFFFFF
+OCTO23313N,STL,313,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/313N,CHOMEDEY,151f6d,FFFFFF
+OCTO23313S,STL,313,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/313S,COTE-VERTU,151f6d,FFFFFF
+OCTO2333N,STL,33,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/33N,MONTMORENCY,151f6d,FFFFFF
+OCTO2333S,STL,33,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/33S,CARTIER,151f6d,FFFFFF
+OCTO23345N,STL,345,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/345N,GARE VIMONT,151f6d,FFFFFF
+OCTO23345S,STL,345,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/345S,H-BOURASSA,151f6d,FFFFFF
+OCTO2336E,STL,36,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/36E,MONTMORENCY,151f6d,FFFFFF
+OCTO2336O,STL,36,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/36O,CHOMEDEY,151f6d,FFFFFF
+OCTO23360N,STL,360,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/360N,CHOMEDEY,151f6d,FFFFFF
+OCTO2337N,STL,37,Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/37N,STE-ROSE,151f6d,FFFFFF
+OCTO2337S,STL,37,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/37S,CARTIER,151f6d,FFFFFF
+OCTO2339N,STL,39,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/39N,AUTEUIL,151f6d,FFFFFF
+OCTO2339S,STL,39,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/39S,CARREFOUR,151f6d,FFFFFF
+OCTO2340E,STL,40,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/40E,MONTMORENCY,151f6d,FFFFFF
+OCTO2340O,STL,40,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/40O,CHOMEDEY,151f6d,FFFFFF
+OCTO2341N,STL,41,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/41N,AUTEUIL,151f6d,FFFFFF
+OCTO2341S,STL,41,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/41S,CARTIER,151f6d,FFFFFF
+OCTO2342E,STL,42,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/42E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO2342O,STL,42,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/42O,CARREFOUR,151f6d,FFFFFF
+OCTO2343N,STL,43,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/43N,AUTEUIL,151f6d,FFFFFF
+OCTO2343S,STL,43,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/43S,CARTIER,151f6d,FFFFFF
+OCTO2345N,STL,45,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/45N,AUTEUIL,151f6d,FFFFFF
+OCTO2345S,STL,45,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/45S,MONTMORENCY,151f6d,FFFFFF
+OCTO2346N,STL,46,Laval-Ouest,3,https://stlaval.ca/reseau/horaires-autobus/route/46N,LAVAL-OUEST,151f6d,FFFFFF
+OCTO2346S,STL,46,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/46S,MONTMORENCY,151f6d,FFFFFF
+OCTO2348E,STL,48,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/48E,GARE VIMONT,151f6d,FFFFFF
+OCTO2348O,STL,48,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/48O,CARTIER,151f6d,FFFFFF
+OCTO2350E,STL,50,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/50E,ST-VCT-PAUL,151f6d,FFFFFF
+OCTO2350O,STL,50,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/50O,CARREFOUR,151f6d,FFFFFF
+OCTO2352E,STL,52,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/52E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO2352O,STL,52,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/52O,H-BOURASSA,151f6d,FFFFFF
+OCTO2355N,STL,55,Laval-Ouest,3,https://stlaval.ca/reseau/horaires-autobus/route/55N,LAVAL-OUEST,151f6d,FFFFFF
+OCTO2355S,STL,55,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/55S,H-BOURASSA,151f6d,FFFFFF
+OCTO2356E,STL,56,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/56E,MONTMORENCY,151f6d,FFFFFF
+OCTO2356O,STL,56,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/56O,STEDOROTHEE,151f6d,FFFFFF
+OCTO2358E,STL,58,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/58E,ST-VCT-PAUL,151f6d,FFFFFF
+OCTO2358O,STL,58,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/58O,CARTIER,151f6d,FFFFFF
+OCTO2360E,STL,60,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/60E,CARTIER,151f6d,FFFFFF
+OCTO2360O,STL,60,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/60O,CHOMEDEY,151f6d,FFFFFF
+OCTO2361N,STL,61,Fabreville,3,https://stlaval.ca/reseau/horaires-autobus/route/61N,FABREVILLE,151f6d,FFFFFF
+OCTO2361S,STL,61,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/61S,MONTMORENCY,151f6d,FFFFFF
+OCTO2363N,STL,63,Gare Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/63N,STE-ROSE,151f6d,FFFFFF
+OCTO2363S,STL,63,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/63S,CARTIER,151f6d,FFFFFF
+OCTO2365N,STL,65,Gare Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/65N,STE-ROSE,151f6d,FFFFFF
+OCTO2365S,STL,65,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/65S,MONTMORENCY,151f6d,FFFFFF
+OCTO2366E,STL,66,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/66E,CARREFOUR,151f6d,FFFFFF
+OCTO2366O,STL,66,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/66O,STEDOROTHEE,151f6d,FFFFFF
+OCTO2370E,STL,70,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/70E,CARTIER,151f6d,FFFFFF
+OCTO2370O,STL,70,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/70O,MONTMORENCY,151f6d,FFFFFF
+OCTO23713N,STL,713,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/713N,STEDOROTHEE,151f6d,FFFFFF
+OCTO23713S,STL,713,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/713S,COTE-VERTU,151f6d,FFFFFF
+OCTO2373N,STL,73,Fabreville,3,https://stlaval.ca/reseau/horaires-autobus/route/73N,FABREVILLE,151f6d,FFFFFF
+OCTO2373S,STL,73,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/73S,CARTIER,151f6d,FFFFFF
+OCTO23730N,STL,730,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/730N,STEDOROTHEE,151f6d,FFFFFF
+OCTO23730S,STL,730,Montréal,3,https://stlaval.ca/reseau/horaires-autobus/route/730S,MONTRÉAL,151f6d,FFFFFF
+OCTO2374E,STL,74,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/74E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO2374O,STL,74,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/74O,CARTIER,151f6d,FFFFFF
+OCTO23744E,STL,744,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/744E,COTE-VERTU,151f6d,FFFFFF
+OCTO23744O,STL,744,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/744O,STEDOROTHEE,151f6d,FFFFFF
+OCTO2376E,STL,76,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/76E,MONTMORENCY,151f6d,FFFFFF
+OCTO2376O,STL,76,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/76O,STEDOROTHEE,151f6d,FFFFFF
+OCTO23901N,STL,901,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/901N,ST-FRANCOIS,151f6d,FFFFFF
+OCTO23901S,STL,901,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/901S,CARTIER,151f6d,FFFFFF
+OCTO23902N,STL,902,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/902N,CARREFOUR,151f6d,FFFFFF
+OCTO23902S,STL,902,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/902S,COTE-VERTU,151f6d,FFFFFF
+OCTO23903N,STL,903,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/903N,STEDOROTHEE,151f6d,FFFFFF
+OCTO23903S,STL,903,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/903S,MONTMORENCY,151f6d,FFFFFF
+OCTO23925N,STL,925,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/925N,ST-FRANCOIS,151f6d,FFFFFF
+OCTO23925S,STL,925,Métro Radisson,3,https://stlaval.ca/reseau/horaires-autobus/route/925S,RADISSON,151f6d,FFFFFF
+OCTO23942E,STL,942,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/942E,ST-FRANCOIS,151f6d,FFFFFF
+OCTO23942O,STL,942,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/942O,MONTMORENCY,151f6d,FFFFFF
+JANV2412E,STL,12,Pont-Viau,3,https://stlaval.ca/reseau/horaires-autobus/route/12E,PONT-VIAU,151f6d,FFFFFF
+JANV2412O,STL,12,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/12O,CARTIER,151f6d,FFFFFF
+JANV24144E,STL,144,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/144E,COTE-VERTU,151f6d,FFFFFF
+JANV24144O,STL,144,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/144O,STEDOROTHEE,151f6d,FFFFFF
+JANV24151N,STL,151,Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/151N,STE-ROSE,151f6d,FFFFFF
+JANV24151S,STL,151,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/151S,COTE-VERTU,151f6d,FFFFFF
+JANV2416E,STL,16,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/16E,MONTMORENCY,151f6d,FFFFFF
+JANV2416O,STL,16,Laval-des-Rapides / Armand-Frappier,3,https://stlaval.ca/reseau/horaires-autobus/route/16O,LAV.RAPIDES,151f6d,FFFFFF
+JANV2417N,STL,17,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/17N,AUTEUIL,151f6d,FFFFFF
+JANV2417S,STL,17,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/17S,CARTIER,151f6d,FFFFFF
+JANV242E,STL,2,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/2E,H-BOURASSA,151f6d,FFFFFF
+JANV242O,STL,2,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/2O,MONTMORENCY,151f6d,FFFFFF
+JANV2420E,STL,20,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/20E,CARTIER,151f6d,FFFFFF
+JANV2420O,STL,20,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/20O,CHOMEDEY,151f6d,FFFFFF
+JANV2422E,STL,22,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/22E,ST-FRANCOIS,151f6d,FFFFFF
+JANV2422O,STL,22,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/22O,CARTIER,151f6d,FFFFFF
+JANV24222E,STL,222,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/222E,ST-VCT-PAUL,151f6d,FFFFFF
+JANV24222O,STL,222,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/222O,CARTIER,151f6d,FFFFFF
+JANV2424E,STL,24,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/24E,CARTIER,151f6d,FFFFFF
+JANV2424O,STL,24,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/24O,STEDOROTHEE,151f6d,FFFFFF
+JANV24252E,STL,252,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/252E,ST-FRANCOIS,151f6d,FFFFFF
+JANV24252O,STL,252,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/252O,H-BOURASSA,151f6d,FFFFFF
+JANV2426E,STL,26,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/26E,MONTMORENCY,151f6d,FFFFFF
+JANV2426O,STL,26,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/26O,STEDOROTHEE,151f6d,FFFFFF
+JANV2427N,STL,27,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/27N,GARE VIMONT,151f6d,FFFFFF
+JANV2427S,STL,27,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/27S,CARTIER,151f6d,FFFFFF
+JANV2431N,STL,31,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/31N,AUTEUIL,151f6d,FFFFFF
+JANV2431S,STL,31,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/31S,H-BOURASSA,151f6d,FFFFFF
+JANV24313N,STL,313,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/313N,CHOMEDEY,151f6d,FFFFFF
+JANV24313S,STL,313,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/313S,COTE-VERTU,151f6d,FFFFFF
+JANV2433N,STL,33,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/33N,MONTMORENCY,151f6d,FFFFFF
+JANV2433S,STL,33,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/33S,CARTIER,151f6d,FFFFFF
+JANV24345N,STL,345,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/345N,GARE VIMONT,151f6d,FFFFFF
+JANV24345S,STL,345,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/345S,H-BOURASSA,151f6d,FFFFFF
+JANV2436E,STL,36,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/36E,MONTMORENCY,151f6d,FFFFFF
+JANV2436O,STL,36,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/36O,CHOMEDEY,151f6d,FFFFFF
+JANV24360N,STL,360,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/360N,CHOMEDEY,151f6d,FFFFFF
+JANV2437N,STL,37,Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/37N,STE-ROSE,151f6d,FFFFFF
+JANV2437S,STL,37,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/37S,CARTIER,151f6d,FFFFFF
+JANV2439N,STL,39,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/39N,AUTEUIL,151f6d,FFFFFF
+JANV2439S,STL,39,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/39S,CARREFOUR,151f6d,FFFFFF
+JANV2440E,STL,40,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/40E,MONTMORENCY,151f6d,FFFFFF
+JANV2440O,STL,40,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/40O,CHOMEDEY,151f6d,FFFFFF
+JANV2441N,STL,41,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/41N,AUTEUIL,151f6d,FFFFFF
+JANV2441S,STL,41,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/41S,CARTIER,151f6d,FFFFFF
+JANV2442E,STL,42,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/42E,ST-FRANCOIS,151f6d,FFFFFF
+JANV2442O,STL,42,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/42O,CARREFOUR,151f6d,FFFFFF
+JANV2443N,STL,43,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/43N,AUTEUIL,151f6d,FFFFFF
+JANV2443S,STL,43,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/43S,CARTIER,151f6d,FFFFFF
+JANV2445N,STL,45,Auteuil,3,https://stlaval.ca/reseau/horaires-autobus/route/45N,AUTEUIL,151f6d,FFFFFF
+JANV2445S,STL,45,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/45S,MONTMORENCY,151f6d,FFFFFF
+JANV2446N,STL,46,Laval-Ouest,3,https://stlaval.ca/reseau/horaires-autobus/route/46N,LAVAL-OUEST,151f6d,FFFFFF
+JANV2446S,STL,46,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/46S,MONTMORENCY,151f6d,FFFFFF
+JANV2448E,STL,48,Gare Vimont,3,https://stlaval.ca/reseau/horaires-autobus/route/48E,GARE VIMONT,151f6d,FFFFFF
+JANV2448O,STL,48,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/48O,CARTIER,151f6d,FFFFFF
+JANV2450E,STL,50,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/50E,ST-VCT-PAUL,151f6d,FFFFFF
+JANV2450O,STL,50,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/50O,CARREFOUR,151f6d,FFFFFF
+JANV2452E,STL,52,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/52E,ST-FRANCOIS,151f6d,FFFFFF
+JANV2452O,STL,52,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/52O,H-BOURASSA,151f6d,FFFFFF
+JANV2455N,STL,55,Laval-Ouest,3,https://stlaval.ca/reseau/horaires-autobus/route/55N,LAVAL-OUEST,151f6d,FFFFFF
+JANV2455S,STL,55,Métro Henri-Bourassa,3,https://stlaval.ca/reseau/horaires-autobus/route/55S,H-BOURASSA,151f6d,FFFFFF
+JANV2456E,STL,56,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/56E,MONTMORENCY,151f6d,FFFFFF
+JANV2456O,STL,56,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/56O,STEDOROTHEE,151f6d,FFFFFF
+JANV2458E,STL,58,Saint-Vincent-De-Paul,3,https://stlaval.ca/reseau/horaires-autobus/route/58E,ST-VCT-PAUL,151f6d,FFFFFF
+JANV2458O,STL,58,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/58O,CARTIER,151f6d,FFFFFF
+JANV2460E,STL,60,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/60E,CARTIER,151f6d,FFFFFF
+JANV2460O,STL,60,Chomedey,3,https://stlaval.ca/reseau/horaires-autobus/route/60O,CHOMEDEY,151f6d,FFFFFF
+JANV2461N,STL,61,Fabreville,3,https://stlaval.ca/reseau/horaires-autobus/route/61N,FABREVILLE,151f6d,FFFFFF
+JANV2461S,STL,61,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/61S,MONTMORENCY,151f6d,FFFFFF
+JANV2463N,STL,63,Gare Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/63N,STE-ROSE,151f6d,FFFFFF
+JANV2463S,STL,63,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/63S,CARTIER,151f6d,FFFFFF
+JANV2465N,STL,65,Gare Sainte-Rose,3,https://stlaval.ca/reseau/horaires-autobus/route/65N,STE-ROSE,151f6d,FFFFFF
+JANV2465S,STL,65,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/65S,MONTMORENCY,151f6d,FFFFFF
+JANV2466E,STL,66,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/66E,CARREFOUR,151f6d,FFFFFF
+JANV2466O,STL,66,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/66O,STEDOROTHEE,151f6d,FFFFFF
+JANV2470E,STL,70,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/70E,CARTIER,151f6d,FFFFFF
+JANV2470O,STL,70,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/70O,MONTMORENCY,151f6d,FFFFFF
+JANV24713N,STL,713,Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/713N,STEDOROTHEE,151f6d,FFFFFF
+JANV24713S,STL,713,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/713S,COTE-VERTU,151f6d,FFFFFF
+JANV2473N,STL,73,Fabreville,3,https://stlaval.ca/reseau/horaires-autobus/route/73N,FABREVILLE,151f6d,FFFFFF
+JANV2473S,STL,73,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/73S,CARTIER,151f6d,FFFFFF
+JANV24730N,STL,730,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/730N,STEDOROTHEE,151f6d,FFFFFF
+JANV24730S,STL,730,Montréal,3,https://stlaval.ca/reseau/horaires-autobus/route/730S,MONTRÉAL,151f6d,FFFFFF
+JANV2474E,STL,74,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/74E,ST-FRANCOIS,151f6d,FFFFFF
+JANV2474O,STL,74,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/74O,CARTIER,151f6d,FFFFFF
+JANV24744E,STL,744,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/744E,COTE-VERTU,151f6d,FFFFFF
+JANV24744O,STL,744,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/744O,STEDOROTHEE,151f6d,FFFFFF
+JANV2476E,STL,76,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/76E,MONTMORENCY,151f6d,FFFFFF
+JANV2476O,STL,76,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/76O,STEDOROTHEE,151f6d,FFFFFF
+JANV24901N,STL,901,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/901N,ST-FRANCOIS,151f6d,FFFFFF
+JANV24901S,STL,901,Métro Cartier,3,https://stlaval.ca/reseau/horaires-autobus/route/901S,CARTIER,151f6d,FFFFFF
+JANV24902N,STL,902,Terminus Le Carrefour,3,https://stlaval.ca/reseau/horaires-autobus/route/902N,CARREFOUR,151f6d,FFFFFF
+JANV24902S,STL,902,Métro Côte-Vertu,3,https://stlaval.ca/reseau/horaires-autobus/route/902S,COTE-VERTU,151f6d,FFFFFF
+JANV24903N,STL,903,Gare Sainte-Dorothée,3,https://stlaval.ca/reseau/horaires-autobus/route/903N,STEDOROTHEE,151f6d,FFFFFF
+JANV24903S,STL,903,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/903S,MONTMORENCY,151f6d,FFFFFF
+JANV24925N,STL,925,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/925N,ST-FRANCOIS,151f6d,FFFFFF
+JANV24925S,STL,925,Métro Radisson,3,https://stlaval.ca/reseau/horaires-autobus/route/925S,RADISSON,151f6d,FFFFFF
+JANV24942E,STL,942,Saint-François,3,https://stlaval.ca/reseau/horaires-autobus/route/942E,ST-FRANCOIS,151f6d,FFFFFF
+JANV24942O,STL,942,Métro Montmorency,3,https://stlaval.ca/reseau/horaires-autobus/route/942O,MONTMORENCY,151f6d,FFFFFF
