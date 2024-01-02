@@ -60,8 +60,13 @@ def write_bus_positions_in_csv_file(busses_info_in_csv_multiline_string, busses_
     with open(busses_info_csv_file_path, 'w') as fid:
         fid.write(busses_info_in_csv_multiline_string)
 
+def get_folder_path_for_raw_opendata():
+    return 'C:/GitHub/Transit_3D/Transit_3D_Raw_OpenData'
 
-def get_current_busses_info_and_write_in_json():
+def get_folder_path_for_partially_processed_opendata():
+    return 'C:/GitHub/Transit_3D/Transit_3D_Raw_OpenData'
+
+def get_current_busses_info_and_write_ray_data_in_csv():
     busses_info_csv_file_path = 'C:/GitHub/Transit_3D_001/Content/CsvOfCurrentBussesPositions/DT_Busses_current_position.csv'
     request = requests.get("https://retro.umoiq.com/service/publicXMLFeed?command=vehicleLocations&a=stl&t=0")
     print("status code response: ", request.status_code)
