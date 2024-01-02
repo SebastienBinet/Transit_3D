@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "rowa",
+		"MemberVar_0": "amember0",
+		"MemberVar_2": "amember2"
+	},
+	{
+		"Name": "rowb",
+		"MemberVar_0": "bmember0",
+		"MemberVar_2": "bmember2"
+	}
+]
